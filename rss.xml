@@ -4,7 +4,7 @@
         <description><![CDATA[Bryllupsfotografering ]]></description>
         <link>https://thegrid.ai/klas-bryllupsfotografering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 14:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 14:45:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/klas-bryllupsfotografering/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tittel test 5]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/klas-bryllupsfotografering/test-4-make-full-post/index.html</link>
             <guid isPermaLink="false">92a6982d-b987-4bdb-b02e-0319e5f749ff</guid>
             <pubDate>Sun, 28 Aug 2016 14:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tittel test 2]]></title>
-            <description><![CDATA[<article><h1>Tittel test 2</h1><p>Overskrift test 2</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d688e0-4efd-420f-8783-c9f9ff95df40.jpg"></article>]]></description>
-            <link>https://thegrid.ai/klas-bryllupsfotografering/tittel-test-2/index.html</link>
-            <guid isPermaLink="false">d26c6b09-94d2-498c-ad88-403e3974c1a7</guid>
-            <pubDate>Sun, 28 Aug 2016 14:40:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
