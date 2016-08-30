@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Klas Bryllupsfotografering]]></title>
-        <description><![CDATA[Klas Bryllupsfotografering]]></description>
+        <title><![CDATA[Bryllupsfotografering ]]></title>
+        <description><![CDATA[Bryllupsfotografering ]]></description>
         <link>https://thegrid.ai/klas-bryllupsfotografering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 14:42:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/klas-bryllupsfotografering/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Coming clean: Dirty Lemon makes detoxing a little easier.]]></title>
-            <description><![CDATA[<article><h1>Coming clean: Dirty Lemon makes detoxing a little easier.</h1><p>Chances are you've heard the detoxifying benefits of ingesting lemon and water extolled on more than one occasion, but drinking the stuff has just become a whole lot easier with the launch of Dirty Lemon, a new line of detox beverages built upon this basic principle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc29a016702f10e4208d83bd2f675ddae3d03329.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/lifestyle/dirty-lemon-makes-detoxing-a-little-easier</link>
-            <guid isPermaLink="false">ab286721-ec12-4269-97a9-0a605664b2cd</guid>
-            <pubDate>Sun, 28 Aug 2016 14:13:23 GMT</pubDate>
+            <title><![CDATA[Tittel test 5]]></title>
+            <description><![CDATA[<article><h1>Tittel test 5</h1><p>test 5 (full post med foto i overskriften (???))</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee84b1b3-00de-4691-9f47-fed0e45e1907.jpg"></article>]]></description>
+            <link>https://thegrid.ai/klas-bryllupsfotografering/tittel-test-5/index.html</link>
+            <guid isPermaLink="false">d9dc3606-1fc4-437e-b4b8-346152d563bc</guid>
+            <pubDate>Sun, 28 Aug 2016 14:42:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moleskine's Comprehensive Smart Writing Set]]></title>
-            <description><![CDATA[<article><h1>Moleskine's Comprehensive Smart Writing Set</h1><p>At a conference on productivity-which touched on everything from the importance of tech-free alone time to the educational and emotional benefits of writing by hand (as outlined in a series of studies on the subject)- Moleskine unveiled their latest analog-to-digital wonder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88246302c4146bab7671eb9fd40a7ff184af1b48.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/tech/moleskine-smart-writing-set</link>
-            <guid isPermaLink="false">baa577e7-1d09-466e-b68e-ab4752a76f9a</guid>
-            <pubDate>Sun, 28 Aug 2016 14:13:23 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7afddb75-2d1e-4518-978a-9643e5abb4a5.jpg" alt="tekst til bildet test 6">]]></description>
+            <link>https://thegrid.ai/klas-bryllupsfotografering/test-5-ikke-full-post/index.html</link>
+            <guid isPermaLink="false">63366337-ba28-433b-8a90-febd2c078e1d</guid>
+            <pubDate>Sun, 28 Aug 2016 14:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test 4 (make full post)]]></title>
+            <description><![CDATA[<article><h1>Test 4 (make full post)</h1><p>Test 4</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3946269a-27c1-4b49-8edc-bae55a2212ed.jpg"></article>]]></description>
+            <link>https://thegrid.ai/klas-bryllupsfotografering/test-4-make-full-post/index.html</link>
+            <guid isPermaLink="false">92a6982d-b987-4bdb-b02e-0319e5f749ff</guid>
+            <pubDate>Sun, 28 Aug 2016 14:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tittel test 2]]></title>
+            <description><![CDATA[<article><h1>Tittel test 2</h1><p>Overskrift test 2</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d688e0-4efd-420f-8783-c9f9ff95df40.jpg"></article>]]></description>
+            <link>https://thegrid.ai/klas-bryllupsfotografering/tittel-test-2/index.html</link>
+            <guid isPermaLink="false">d26c6b09-94d2-498c-ad88-403e3974c1a7</guid>
+            <pubDate>Sun, 28 Aug 2016 14:40:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
