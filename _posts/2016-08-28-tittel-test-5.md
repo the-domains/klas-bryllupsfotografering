@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-28T14:40:34.426Z'
+datePublished: '2016-08-28T14:42:30.558Z'
+sourcePath: _posts/2016-08-28-tittel-test-5.md
 author: []
 via: {}
-dateModified: '2016-08-28T14:39:31.069Z'
+dateModified: '2016-08-28T14:42:29.949Z'
 title: Tittel test 5
 publisher: {}
 description: test 5 (full post med foto i overskriften (???))
 starred: false
-sourcePath: _posts/2016-08-28-tittel-test-5.md
 inFeed: true
 hasPage: true
 inNav: false
