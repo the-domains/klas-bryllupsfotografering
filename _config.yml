@@ -1,15 +1,14 @@
-typography_spectrum: 0.12266676081344485
+layout_spectrum: 0.328941214364022
+typography_spectrum: 0.8113049019593745
 color:
-  brandStrength: 0.9095544095616788
-  lightness: 0.14629829465411603
-  saturation: 0.7870144832413644
-  rhythmicContrast: 0.6964670540764928
+  brandStrength: 0.7313275979831815
+  lightness: 0.9812561941798776
+  saturation: 0.0836673341691494
+  rhythmicContrast: 0.7308150494936854
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.9170323058497161
-name: Klas Bryllupsfotografering
-title: 'Bryllupsfotografering '
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Klas bryllupsfotografering
